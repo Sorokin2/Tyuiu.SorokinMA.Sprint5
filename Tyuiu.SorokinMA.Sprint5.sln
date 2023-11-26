@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SorokinMA.Sprint5.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SorokinMA.Sprint5.Task5.V6.Lib", "Tyuiu.SorokinMA.Sprint5.Task5.V6.Lib\Tyuiu.SorokinMA.Sprint5.Task5.V6.Lib.csproj", "{11A9393B-847D-421B-903D-85A36CDE4345}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{227AACBC-6875-406D-BCC7-2F74C2CC748F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
